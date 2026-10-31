@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use OpenPhysics in your research, please cite it as below."
+title: OpenPhysics
+type: software
+authors:
+  - family-names: Monten
+    given-names: Ruben
+    orcid: "https://orcid.org/0000-0003-3485-1543"
+  - family-names: Myers
+    given-names: Richard M.
+    orcid: "https://orcid.org/0000-0003-3687-0908"
+abstract: >-
+  A local research environment for theoretical physics, shared between
+  researchers and LLM agents.
+repository-code: "https://github.com/openphysics-research/openphysics"
+url: "https://github.com/openphysics-research/openphysics"
+license: Apache-2.0
